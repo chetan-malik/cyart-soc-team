@@ -1,7 +1,12 @@
 # Incident Classification
 
-| Incident | MITRE |
-|----------|--------|
-| Phishing | T1566 |
-| Malware | T1204 |
-| DDoS | T1498 |
+| Incident | Type | MITRE |
+|----------|------|--------|
+| Phishing | Email Attack | T1566 |
+| Malware | Execution | T1204 |
+| DDoS | Network Attack | T1498 |
+
+## Metadata
+- Source IP
+- Timestamp
+- IOC
