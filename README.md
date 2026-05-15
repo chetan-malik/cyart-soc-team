@@ -144,6 +144,10 @@ This project successfully demonstrated SOC monitoring, alert detection, alert tr
 
 ---
 
+## Additional Research
+
+Additional documentation and investigation notes were prepared in Markdown format for GitHub-based reporting and workflow tracking.
+
 # Author
 
 Chetan Malik
